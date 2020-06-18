@@ -1,0 +1,13 @@
+C:\Users\DELL\source\repos\QLDoiBong_DoAn\QLDoiBong_DoAn\bin\Debug\QLDoiBong_DoAn.exe.config
+C:\Users\DELL\source\repos\QLDoiBong_DoAn\QLDoiBong_DoAn\bin\Debug\QLDoiBong_DoAn.exe
+C:\Users\DELL\source\repos\QLDoiBong_DoAn\QLDoiBong_DoAn\bin\Debug\QLDoiBong_DoAn.pdb
+C:\Users\DELL\source\repos\QLDoiBong_DoAn\QLDoiBong_DoAn\obj\Debug\QLDoiBong_DoAn.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\QLDoiBong_DoAn\QLDoiBong_DoAn\obj\Debug\QLDoiBong_DoAn.Properties.Resources.resources
+C:\Users\DELL\source\repos\QLDoiBong_DoAn\QLDoiBong_DoAn\obj\Debug\QLDoiBong_DoAn.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\QLDoiBong_DoAn\QLDoiBong_DoAn\obj\Debug\QLDoiBong_DoAn.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\QLDoiBong_DoAn\QLDoiBong_DoAn\obj\Debug\QLDoiBong_DoAn.exe
+C:\Users\DELL\source\repos\QLDoiBong_DoAn\QLDoiBong_DoAn\obj\Debug\QLDoiBong_DoAn.pdb
+C:\Users\DELL\source\repos\QLDoiBong_DoAn\QLDoiBong_DoAn\obj\Debug\QLDoiBong_DoAn.frmMain.resources
+C:\Users\DELL\source\repos\QLDoiBong_DoAn\QLDoiBong_DoAn\obj\Debug\QLDoiBong_DoAn.frmDSCT.resources
+C:\Users\DELL\source\repos\QLDoiBong_DoAn\QLDoiBong_DoAn\obj\Debug\QLDoiBong_DoAn.frmCauThu.resources
+C:\Users\DELL\source\repos\QLDoiBong_DoAn\QLDoiBong_DoAn\obj\Debug\QLDoiBong_DoAn.frmLogin.resources
